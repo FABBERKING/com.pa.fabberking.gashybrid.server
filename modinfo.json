@@ -1,0 +1,17 @@
+ {
+   "context": "server",
+   "identifier": "com.pa.fabberking.gashybrid.server",
+   "display_name": "Gas Hybrid Server",
+   "description": "",
+   "author": "FABBERKING",
+   "version": "1.0",
+   "build": "Unknown",
+   "date": "Unknown",
+   "signature": "",
+   "forum": "",
+   "priority": 100,
+   "icon": "",
+   "category": ["biome"],
+   "dependencies": ["com.pa.fabberking.gashybrid.client"],
+   "companions": ["com.pa.fabberking.gashybrid.client"]
+ }
