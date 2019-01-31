@@ -10,6 +10,7 @@
 "base_biome":"/pa/terrain/base/base.json",
 "class_range":[1,5],
 "enable_terrain":true,
+"ignore_height_range":true,
 "gas_material":{"shader":"gas",
 "textures":{"DistortTexture":"/pa/effects/textures/CloudNoise.papa",
 "ColorMapTexture":"/pa/effects/textures/GasGiantColorMap.papa"}},
